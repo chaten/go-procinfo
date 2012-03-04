@@ -1,0 +1,3 @@
+Procinfo is a library to get information about a running process.
+
+It currently only supports linux.
